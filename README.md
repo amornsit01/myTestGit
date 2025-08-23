@@ -1,2 +1,2 @@
 # myTestGit
-for testing purpose
+for practicing foundamental for GitHub 
